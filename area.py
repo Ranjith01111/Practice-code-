@@ -1,0 +1,7 @@
+r=int(input("enter the number"))
+area=(r*r)
+a=(3.14*area)
+b=(2*r)
+c=(3.14*b)
+print("the area of the circle",area)
+print("the circumference of the circle",c)
